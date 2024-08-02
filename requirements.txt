@@ -1,0 +1,5 @@
+cso_ireland_data==0.0.3
+pandas==2.2.2
+wikipedia==1.4.0
+lxml==5.2.2
+openpyxl==3.1.5
