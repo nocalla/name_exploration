@@ -1,0 +1,1 @@
+A project to produce a list of the top Irish names over the last several years using the Central Statistics Office's data on baby naming. Irish names are selected from the Wikipedia article on Irish names, so it's not comprehensive.
